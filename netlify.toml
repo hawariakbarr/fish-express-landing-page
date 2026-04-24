@@ -10,7 +10,7 @@
 # Redirects for clean URLs
 [[redirects]]
   from = "/*"
-  to = "/fishexpress-website.html"
+  to = "/index.html"
   status = 200
 
 # Security headers

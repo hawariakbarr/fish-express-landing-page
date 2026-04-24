@@ -27,11 +27,11 @@ Simply open the HTML file in your browser:
 
 ```bash
 # On Linux/Mac
-xdg-open fishexpress-website.html  # Linux
-open fishexpress-website.html      # Mac
+xdg-open index.html  # Linux
+open index.html      # Mac
 
 # On Windows
-start fishexpress-website.html
+start index.html
 ```
 
 ### Deploy to GitHub Pages
